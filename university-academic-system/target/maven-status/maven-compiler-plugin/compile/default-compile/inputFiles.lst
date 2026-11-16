@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\university-academic-system\src\main\java\rw\ac\university\academic\model\Course.java
+C:\Users\USER\Desktop\university-academic-system\src\main\java\rw\ac\university\academic\model\Department.java
+C:\Users\USER\Desktop\university-academic-system\src\main\java\rw\ac\university\academic\model\Gender.java
+C:\Users\USER\Desktop\university-academic-system\src\main\java\rw\ac\university\academic\model\Lecturer.java
+C:\Users\USER\Desktop\university-academic-system\src\main\java\rw\ac\university\academic\model\Registration.java
+C:\Users\USER\Desktop\university-academic-system\src\main\java\rw\ac\university\academic\model\RegistrationStatus.java
+C:\Users\USER\Desktop\university-academic-system\src\main\java\rw\ac\university\academic\model\Semester.java
+C:\Users\USER\Desktop\university-academic-system\src\main\java\rw\ac\university\academic\model\Student.java
+C:\Users\USER\Desktop\university-academic-system\src\main\java\rw\ac\university\academic\model\StudentProfile.java
+C:\Users\USER\Desktop\university-academic-system\src\main\java\rw\ac\university\academic\repository\CourseRepository.java
+C:\Users\USER\Desktop\university-academic-system\src\main\java\rw\ac\university\academic\repository\DepartmentRepository.java
+C:\Users\USER\Desktop\university-academic-system\src\main\java\rw\ac\university\academic\repository\LecturerRepository.java
+C:\Users\USER\Desktop\university-academic-system\src\main\java\rw\ac\university\academic\repository\RegistrationRepository.java
+C:\Users\USER\Desktop\university-academic-system\src\main\java\rw\ac\university\academic\repository\StudentProfileRepository.java
+C:\Users\USER\Desktop\university-academic-system\src\main\java\rw\ac\university\academic\repository\StudentRepository.java
+C:\Users\USER\Desktop\university-academic-system\src\main\java\rw\ac\university\academic\UniversityAcademicSystemApplication.java

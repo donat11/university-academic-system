@@ -1,0 +1,16 @@
+rw\ac\university\academic\repository\CourseRepository.class
+rw\ac\university\academic\model\StudentProfile.class
+rw\ac\university\academic\model\Lecturer.class
+rw\ac\university\academic\model\Student.class
+rw\ac\university\academic\repository\RegistrationRepository.class
+rw\ac\university\academic\model\Gender.class
+rw\ac\university\academic\model\Course.class
+rw\ac\university\academic\repository\StudentProfileRepository.class
+rw\ac\university\academic\model\Registration.class
+rw\ac\university\academic\repository\DepartmentRepository.class
+rw\ac\university\academic\repository\StudentRepository.class
+rw\ac\university\academic\UniversityAcademicSystemApplication.class
+rw\ac\university\academic\repository\LecturerRepository.class
+rw\ac\university\academic\model\Semester.class
+rw\ac\university\academic\model\Department.class
+rw\ac\university\academic\model\RegistrationStatus.class
